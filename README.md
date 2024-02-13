@@ -1,0 +1,1 @@
+Dive into the world of modern web development using cutting-edge tools such as Angular, Angular Material, and Spring Boot. Our project covers a wide array of features that employers love to see, ensuring you're equipped with real-world, hands-on experience
